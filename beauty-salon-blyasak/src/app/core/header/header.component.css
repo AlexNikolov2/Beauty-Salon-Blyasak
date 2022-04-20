@@ -9,3 +9,6 @@ a{
 .navbar-toggler{
     border: 1px solid #000;
 }
+.collapse.navbar-collapse{
+    margin-left: 5%;
+}
