@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    h1{
+        width: 100%;
+        flex-direction: row;
+        font-size: 20px;
+    }
+    ul{
+        flex-direction: column;
+    }
+}
