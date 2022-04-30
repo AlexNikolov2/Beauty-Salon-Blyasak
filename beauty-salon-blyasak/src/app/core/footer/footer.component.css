@@ -1,3 +1,9 @@
 
 @import url('https://use.fontawesome.com/releases/v6.1.1/css/all.css');
 
+@media (min-width: 768px) {
+  footer{
+        position: fixed;
+        bottom: 0;
+    }
+}
