@@ -1,1 +1,5 @@
-Wonderful beauty salon in the suburbs of the town.
+# Beauty Salon Blyasak #
+
+**The best beauty salon in town!**
+
+![text](./beauty-salon-blyasak/src/assets/blyasak.png)
